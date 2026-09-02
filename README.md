@@ -7,7 +7,7 @@
 🧑🏾‍💻 &nbsp;I am currently seeking my first work opportunity as a Full Stack Developer.\
 📚 &nbsp;I'm on track for learning more stack tools and expand my knowledge.\
 🎯 &nbsp;My future goals are to keep growing in the industry and to improve as a professional.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me.
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1i8sUx7nUNY_h3U4Qnmh735pWja4ZbmBQ/view?usp=sharing) for more details about me.
 
 <h3>Tech Stack</h3>
 
