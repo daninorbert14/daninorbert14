@@ -1,13 +1,13 @@
 <img alt="ProgrammerPic" src="media/ProgrammingPic.png" width='200' align="center"/>
 
-## 👋 Hey there! I'm Daniel Norbert
+## 👋 Hi, I'm Daniel Norbert!
 
 ### About Me
 
-🧑🏾‍💻 &nbsp;I am currently seeking my first work opportunity as a Full Stack Developer.\
-📚 &nbsp;I'm on track for learning more stack tools and expand my knowledge.\
-🎯 &nbsp;My future goals are to keep growing in the industry and to improve as a professional.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1i8sUx7nUNY_h3U4Qnmh735pWja4ZbmBQ/view?usp=sharing) for more details about me.
+🧑🏾‍💻 I am a Full Stack Developer currently seeking my first professional opportunity in software development.\
+📚 I enjoy continuously learning new technologies and expanding my knowledge across the software development stack.\
+🎯 My goal is to keep growing as a developer, contribute to meaningful projects, and continue improving both technically and professionally.\
+📄 Feel free to check out my Résumé for more information about my background and experience.
 
 <h3>Tech Stack</h3>
 
@@ -23,7 +23,6 @@
 #### 🖥️ Frameworks/Libraries
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
-![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=FFF)&nbsp;
 
 
