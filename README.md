@@ -7,7 +7,7 @@
 🧑🏾‍💻 I am a Full Stack Developer currently seeking my first professional opportunity in software development.\
 📚 I enjoy continuously learning new technologies and expanding my knowledge across the software development stack.\
 🎯 My goal is to keep growing as a developer, contribute to meaningful projects, and continue improving both technically and professionally.\
-📄 Feel free to check out my Résumé for more information about my background and experience.
+📄 Feel free to check out my [Résumé](https://drive.google.com/file/d/1i8sUx7nUNY_h3U4Qnmh735pWja4ZbmBQ/view?usp=sharing) for more information about my background and experience.
 
 <h3>Tech Stack</h3>
 
