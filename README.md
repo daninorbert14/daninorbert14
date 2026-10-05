@@ -29,16 +29,24 @@
 #### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
+### Testing
+![JUnit](https://img.shields.io/badge/junit-%2523E33332?style=for-the-badge&logo=junit5&logoColor=white&labelColor=red&color=red)
+![Mockito](https://img.shields.io/badge/Mockito-%2523E33332?style=for-the-badge&logo=junit5&logoColor=white&labelColor=white&color=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
 #### 🛠 Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+### AI
+![OpenCode](https://img.shields.io/badge/OpenCode-Releases-blue?style=for-the-badge&logo=github)&nbsp;
+
 
 #### ⚙️ GitHub Analytics
 
