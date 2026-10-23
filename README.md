@@ -29,7 +29,8 @@
 #### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
-### Testing
+### ✅ Testing
+
 ![JUnit](https://img.shields.io/badge/junit-%2523E33332?style=for-the-badge&logo=junit5&logoColor=white&labelColor=red&color=red)
 ![Mockito](https://img.shields.io/badge/Mockito-%2523E33332?style=for-the-badge&logo=junit5&logoColor=white&labelColor=white&color=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
@@ -44,7 +45,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-### AI
+### 🦾 AI
+
 ![OpenCode](https://img.shields.io/badge/OpenCode-Releases-blue?style=for-the-badge&logo=github)&nbsp;
 
 
