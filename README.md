@@ -7,7 +7,7 @@
 🧑🏾‍💻 I am a Full Stack Developer currently seeking my first professional opportunity in software development.\
 📚 I enjoy continuously learning new technologies and expanding my knowledge across the software development stack.\
 🎯 My goal is to keep growing as a developer, contribute to meaningful projects, and continue improving both technically and professionally.\
-📄 Feel free to check out my [Résumé](https://drive.google.com/file/d/1Z9L3RcsqlpDpV5905XgGyB3kehNFUd1W/view?usp=sharing) for more information about my background and experience.
+📄 Feel free to check out my [Résumé](https://drive.google.com/file/d/1flH3fAo-mJDX2cxfRuSPe_YP20jV2bjy/view?usp=sharing) for more information about my background and experience.
 
 <h3>Tech Stack</h3>
 
@@ -28,6 +28,7 @@
 
 #### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ✅ Testing
 
@@ -40,6 +41,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
